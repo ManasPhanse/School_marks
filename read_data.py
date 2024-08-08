@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import csv
 
 def read_csv(file_path):
