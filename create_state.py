@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 # create_state.py
 from read_data import read_csv
 from structures import State, County, School, Student
