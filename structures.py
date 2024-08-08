@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # structures.py
 class Marksheet:
     def __init__(self, student_id):
