@@ -1,6 +1,7 @@
 # School Marks
 
-## 'data' contains CSV Datasets Extracted from the Database
+## 'data' contains CSV Datasets 
+(Assumed as extracted from the Database)
 
 ## Run the program
 ```
